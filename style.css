@@ -1,0 +1,16 @@
+.center {
+    text-align: center;
+  }
+  body {
+    background-image: url(756182228681944.jpg); /* Путь к фоновому изображению */
+    background-size: 1400px 800px;
+   }
+ .text {
+    color: grey;
+ }
+ .text1{
+    color: rgb(131, 110, 161);
+ }
+ .text2{
+    color: #fff;
+ }
